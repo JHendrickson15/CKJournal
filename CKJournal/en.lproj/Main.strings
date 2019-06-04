@@ -1,0 +1,18 @@
+
+/* Class = "UINavigationItem"; title = "Entries"; ObjectID = "1YT-zc-eM7"; */
+"1YT-zc-eM7.title" = "Entries";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "5bg-Su-fsH"; */
+"5bg-Su-fsH.text" = "Detail";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "NuL-27-322"; */
+"NuL-27-322.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Entry Title..."; ObjectID = "bJc-9m-Jhk"; */
+"bJc-9m-Jhk.placeholder" = "Entry Title...";
+
+/* Class = "UINavigationItem"; title = "Entry"; ObjectID = "f3Z-wr-cnG"; */
+"f3Z-wr-cnG.title" = "Entry";
+
+/* Class = "UIButton"; normalTitle = "Clear Text"; ObjectID = "lho-ew-19e"; */
+"lho-ew-19e.normalTitle" = "Clear Text";
